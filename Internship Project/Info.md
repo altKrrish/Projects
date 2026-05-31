@@ -1,4 +1,4 @@
-# 🤖 YourAppName – AI-Powered Sales Insights Assistant
+# 🤖 SalesBot – AI-Powered Sales Insights Assistant
 
 An intelligent Streamlit-based analytics application that converts natural language business questions into optimized SQL queries, executes them against a SQL Server database, and presents results through interactive tables and visualizations.
 
