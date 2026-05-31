@@ -16,7 +16,7 @@ from ui.footer import render_footer
 
 
 st.set_page_config(
-    page_title="YourAppName",
+    page_title="SalesBot",
     layout="wide",
     page_icon="🤖"
 )
@@ -27,7 +27,7 @@ initialize_session_state()
 initialize_system_prompt()
 
 st.markdown(
-    "<h1 class='main-title'>YourAppName</h1>",
+    "<h1 class='main-title'>SalesBot</h1>",
     unsafe_allow_html=True
 )
 
