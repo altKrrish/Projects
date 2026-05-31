@@ -1,21 +1,82 @@
-# Project Portfolio: Krrish Arora
+# 🚀 Krrish Arora - Project Portfolio
 
-## Key Projects
-AMSdbGPT: AI-Powered SQL Generation and Data Analysis Tool
+A collection of projects in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Analytics.
 
-Role: Lead Developer, Architect
+---
 
-Technologies Used: Python, Streamlit, Google Gemini API, SQL Server (T-SQL), SQLAlchemy, Pandas, Plotly, Docker (optional)
+## 🌟 Featured Project
 
-Description: AMSdbGPT is a full-stack, AI-powered conversational data analysis tool. Built from scratch, it allows business users to generate complex T-SQL queries and visualize data simply by asking questions in plain English. The application leverages a Large Language Model (LLM) to interpret natural language, convert it into optimized SQL, and display the results in an interactive interface. It was designed to democratize data access and reduce the dependency on technical teams for routine data requests.
+### AMSdbGPT - AI-Powered SQL Generation & Data Analysis
 
-Key Accomplishments:
-Architected and developed a robust prompt engineering framework that translates user questions into highly optimized and production-ready T-SQL, adhering to strict business logic and performance standards.
+**Role:** Lead Developer & Architect
 
-Integrated the Google Gemini API to enable seamless natural language processing, resulting in accurate SQL generation and a user-friendly conversational experience.
+**Tech Stack:** Python, Streamlit, Google Gemini API, SQL Server (T-SQL), SQLAlchemy, Pandas, Plotly
 
-Designed and implemented a modular Streamlit front-end that provides real-time chat, interactive data tables, and dynamic charting, significantly enhancing the user experience.
+#### Overview
 
-Created a dynamic schema management system that automatically ingests database metadata, ensuring the LLM has up-to-date context for all tables, columns, and relationships.
+AMSdbGPT is an AI-powered conversational analytics platform that allows users to query databases using natural language. The system translates user questions into optimized T-SQL queries, executes them, and presents results through interactive visualizations and dashboards.
 
-Incorporated essential business logic and rules directly into the system prompt, including fiscal year calculations, specific metric formulas, and data exclusion filters, to ensure consistent and reliable results.
+#### Key Features
+
+- Natural Language → SQL conversion using LLMs
+- Interactive chat-based interface
+- Automated database schema understanding
+- Dynamic data visualization and reporting
+- Optimized, production-ready T-SQL generation
+- Built-in business logic and metric calculations
+
+#### Highlights
+
+- Developed a robust prompt engineering framework for accurate SQL generation.
+- Integrated Google Gemini API for conversational querying.
+- Built a modular Streamlit application with real-time analytics.
+- Implemented dynamic schema ingestion for contextual awareness.
+- Embedded business rules to ensure reliable and consistent results.
+
+---
+
+## 🤖 Machine Learning Projects
+
+| Project | Description |
+|----------|-------------|
+| PCA on MNIST Dataset | Dimensionality reduction and visualization of handwritten digits |
+| PCA on Cat & Dog Dataset | Feature extraction using Principal Component Analysis |
+| LDA on Cat & Dog Dataset | Classification using Linear Discriminant Analysis |
+| DBSCAN on Iris Dataset | Density-based clustering and pattern discovery |
+| K-Means Clustering on Iris Dataset | Unsupervised clustering of flower species |
+| Hierarchical Clustering on Customer Dataset | Customer segmentation analysis |
+| Forward & Backward Feature Selection | Feature optimization for machine learning models |
+| SVD on MNIST Dataset | Matrix decomposition for dimensionality reduction |
+
+---
+
+## 🧠 Deep Learning Projects
+
+| Project | Description |
+|----------|-------------|
+| Neural Network for Mobile Price Classification | Predict mobile phone price categories |
+| CNN on MNIST Dataset | Handwritten digit classification |
+| CNN on Malaria Dataset | Malaria cell image classification |
+| CNN on Aerial Cactus Dataset | Satellite image classification for cactus detection |
+
+---
+
+## 🛠️ Skills Demonstrated
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Data Analysis & Visualization
+- SQL & Database Systems
+- Feature Engineering
+- Clustering & Dimensionality Reduction
+- Prompt Engineering
+- Generative AI Applications
+- Full-Stack Data Solutions
+
+---
+
+### 📌 Focus Areas
+
+Artificial Intelligence • Machine Learning • Data Analytics • Computer Vision • Generative AI
